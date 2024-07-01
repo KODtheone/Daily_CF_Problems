@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF833A](https://codeforces.com/problemset/problem/833/A) | Consider each prime factor separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf833a.md) |
-| 2000 | [CF1009E](https://codeforces.com/problemset/problem/1009/E) | Consider the contribution of each $a_i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf1009e.md) |
+| 1800 | [CF1833G](https://codeforces.com/problemset/problem/1833/G) | Consider the points from the leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf1833g.md) |
+| 1900 | [CF476D](https://codeforces.com/problemset/problem/476/D) | You can divide each number by $k$ first. Then, note that you can't have $2$ even numbers in a set, | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf476d.md) |
