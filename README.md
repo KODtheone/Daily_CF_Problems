@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1833G](https://codeforces.com/problemset/problem/1833/G) | Consider the points from the leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf1833g.md) |
-| 1900 | [CF476D](https://codeforces.com/problemset/problem/476/D) | You can divide each number by $k$ first. Then, note that you can't have $2$ even numbers in a set, | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf476d.md) |
+| 1700 | [CF578B](https://codeforces.com/problemset/problem/578/B) | The largest number determines the length of the binary expression of the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf578b.md) |
+| 2000 | [CF689E](https://codeforces.com/problemset/problem/689/E) | Consider the contribution of each point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf689e.md) |
