@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1700 | [CF578B](https://codeforces.com/problemset/problem/578/B) | The largest number determines the length of the binary expression of the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf578b.md) |
-| 2000 | [CF689E](https://codeforces.com/problemset/problem/689/E) | Consider the contribution of each point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf689e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF518C](https://codeforces.com/problemset/problem/518/C) | You only need to do swaps and find the position of some elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf518c.md) |
+| 2400 | [CF1913E](https://codeforces.com/problemset/problem/1913/E) | Each element has a cost to be $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf1913e.md) |
