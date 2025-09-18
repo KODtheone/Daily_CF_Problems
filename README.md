@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF518C](https://codeforces.com/problemset/problem/518/C) | You only need to do swaps and find the position of some elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf518c.md) |
-| 2400 | [CF1913E](https://codeforces.com/problemset/problem/1913/E) | Each element has a cost to be $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf1913e.md) |
+| *1700 | [CF104772D](https://codeforces.com/gym/104772/problem/D) | Find a pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0918/solution/cf104772d.md) |
+| *2200 | [CF105493C](https://codeforces.com/gym/105493/problem/C) | Consider neighboring points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0918/solution/cf105493c.md) |
